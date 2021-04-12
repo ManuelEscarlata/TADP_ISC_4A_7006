@@ -5,15 +5,15 @@ import java.awt.Label;
 import java.awt.TextArea;
 import java.awt.BorderLayout;
 import java.awt.event.*;
+import java.util.Arrays;
 
-public class VentanaCListener extends Frame implements ActionListener {
-
+public class Sumadora extends Frame implements ActionListener  {
     /**
      *
      */
     private static final long serialVersionUID = 1L;
  
-    public VentanaCListener() {
+    public Sumadora() {
         this.init();
         this.setSize(400, 300);
         this.setVisible(true);
@@ -22,6 +22,7 @@ public class VentanaCListener extends Frame implements ActionListener {
      * Inicializamos los widgets y los metemos al contenedor
      */
     public void init() {
+        suma=0;
         isClicked = false;
         btn_click = new Button("Aceptar");
         btn_clear = new Button("Limpiar");
@@ -38,7 +39,7 @@ public class VentanaCListener extends Frame implements ActionListener {
         btn_clear.addActionListener(this);
     }
     public static void main(String args[]) {
-        VentanaCListener v = new VentanaCListener();
+        Sumadora v = new Sumadora();
         v.addWindowListener(new WindowAdapter(){
             public void windowClosing(WindowEvent e) {
                 System.exit(0);
@@ -58,15 +59,22 @@ public class VentanaCListener extends Frame implements ActionListener {
             String texto1;
             txt_result.append(texto + "\n");
             txt_in.setText("");
+            if(isNumeric(texto)){
+                int num=Integer.parseInt(texto);
+                suma+=num;
+            }
+            if(texto.equals("SUMAR")){
+                texto1="Suma = "+suma+"\n";
+                txt_result.append(texto1);
+            }
         }
         if (arg0.getSource() == btn_clear) {
             txt_result.setText("");
             txt_in.setText("");
+            suma=0;
         }
-        
         isClicked = !isClicked;
     }
-
     private boolean isNumeric(String trim) {
         try {
             Integer.parseInt(trim);
@@ -75,9 +83,8 @@ public class VentanaCListener extends Frame implements ActionListener {
             return false;
         }
     }
-
     /** 
-     * Creación de los widgets
+     * Creacion de los widgets
      */
     Button btn_click;
     Button btn_clear;
@@ -85,9 +92,6 @@ public class VentanaCListener extends Frame implements ActionListener {
     Label lbl_msg;
     TextArea txt_result;
     boolean isClicked;
+    int suma;
 
 }
-
-
-
-
