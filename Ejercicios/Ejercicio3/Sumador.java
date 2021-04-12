@@ -1,4 +1,3 @@
-package Ejercicios.Ejercicio3;
 import java.awt.Frame;
 import java.awt.TextField;
 import java.awt.Button;
@@ -85,7 +84,7 @@ public class Sumador extends Frame implements ActionListener {
             return false;
         }
     }
-    
+
     /** 
      * Creacion de los widgets
      */
