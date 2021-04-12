@@ -55,7 +55,9 @@ public class VentanaCListener extends Frame implements ActionListener  {
         } */
         if (arg0.getSource() == btn_click) {
             String texto = txt_in.getText();
+            String texto1;
             txt_result.append(texto + "\n");
+            txt_in.setText("");
         }
         if (arg0.getSource() == btn_clear) {
             txt_result.setText("");
@@ -64,6 +66,16 @@ public class VentanaCListener extends Frame implements ActionListener  {
         
         isClicked = !isClicked;
     }
+
+    private boolean isNumeric(String trim) {
+        try {
+            Integer.parseInt(trim);
+            return true;
+        }catch(NumberFormatException nfe){
+            return false;
+        }
+    }
+
     /** 
      * Creación de los widgets
      */
@@ -72,7 +84,6 @@ public class VentanaCListener extends Frame implements ActionListener  {
     TextField txt_in;
     Label lbl_msg;
     TextArea txt_result;
-
     boolean isClicked;
 
 }
