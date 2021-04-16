@@ -11,7 +11,7 @@ import java.awt.Color;
 import java.awt.GridLayout;
 import java.awt.FlowLayout;
 
-public class CalculadoraGUI extends Jframe implements ActionListener,MouseListener{
+public class CalculadoraGUI extends JFrame implements ActionListener,MouseListener{
     /**
      *
      */
