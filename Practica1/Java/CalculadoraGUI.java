@@ -102,11 +102,11 @@ public class CalculadoraGUI extends JFrame implements ActionListener,MouseListen
         panelcentral.add(btn_7);
         panelcentral.add(btn_8);
         panelcentral.add(btn_9);
+        panelcentral.add(btn_0);
         panelcentral.add(btn_suma);
         panelcentral.add(btn_resta);
         panelcentral.add(btn_div);
         panelcentral.add(btn_mult);
-        panelcentral.add(btn_0);
         panelcentral.add(btn_potencia);
         panelcentral.add(btn_resultado);
         this.getContentPane().add(panelsup,BorderLayout.NORTH);
