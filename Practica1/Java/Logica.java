@@ -37,16 +37,16 @@ public class Logica {
         String resulta=""+resultado;
         return resulta;
     }
-    public void setNum1(int num){
+    public void setNum1(double num){
         this.num1=num;
     }
-    public void setNum2(int num){
+    public void setNum2(double num){
         this.num2=num;
     }
     public double getNum1(){
         return num1;
     }
-    public double getNum2(){
+    public  getNum2(){
         return num2;
     } 
 }
