@@ -1,13 +1,13 @@
 public class Logica {
-    private int num1;
-    private int num2;
+    private double num1;
+    private double num2;
     private double resultado;
     private String op;
     
     public Logica(String operacion){
         this.op=operacion;
     }
-    
+
     public void descifrarOperacion(){
         switch (op) {
             case "+":
@@ -43,10 +43,10 @@ public class Logica {
     public void setNum2(int num){
         this.num2=num;
     }
-    public int getNum1(){
+    public double getNum1(){
         return num1;
     }
-    public int getNum2(){
+    public double getNum2(){
         return num2;
     } 
 }

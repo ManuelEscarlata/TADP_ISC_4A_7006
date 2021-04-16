@@ -23,7 +23,7 @@ public class CalculadoraGUI extends JFrame implements ActionListener,MouseListen
     JLabel title,c1,c2,c3,op;
     JPanel panelsup, panelcentral;
     String texto="";
-    int num1,num2;
+    double num1,num2;
     String operacion;
     int[] array=new int[19];
     String[] simbolos=new String[4];
