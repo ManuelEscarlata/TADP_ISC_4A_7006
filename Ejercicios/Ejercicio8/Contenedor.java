@@ -17,11 +17,11 @@ public class Contenedor extends Canvas{
         x = 30;
         y = 30;
         isClicked = false;
-        images = new Image[5];
+        images = new Image[6];
         String pathImage = "/Users/ommp_/Downloads/TADP_ISC_4A_7006/Ejercicios/Ejercicio8/recursos/fondo.jpg";
         imagen = Toolkit.getDefaultToolkit().getImage(pathImage);
         this.t = 0;
-        for(int i=1;i <= 5; i++) {
+        for(int i=1;i <= 6; i++) {
             images[i-1] = Toolkit.getDefaultToolkit().getImage("/Users/ommp_/Downloads/TADP_ISC_4A_7006/Ejercicios/Ejercicio8/recursos/" + i + ".png");
         }
     }
