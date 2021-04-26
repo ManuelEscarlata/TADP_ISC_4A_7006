@@ -1,0 +1,10 @@
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+c:\users\ommp_\source\repos\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

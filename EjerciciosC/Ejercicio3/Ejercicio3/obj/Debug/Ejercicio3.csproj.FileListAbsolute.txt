@@ -1,0 +1,10 @@
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\EjerciciosC\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb
