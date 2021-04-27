@@ -1,0 +1,10 @@
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.Form1.resources
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica1\C#\Practica1\Practica1\obj\Debug\Practica1.pdb
