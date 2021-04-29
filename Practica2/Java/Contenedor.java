@@ -12,7 +12,7 @@ public class Contenedor extends Canvas{
     private String texto2="I'm Cube";
     private boolean presionado;
     public Contenedor(){
-        this.setBackground(Color.purple);
+        this.setBackground(Color.cyan);
         posx=350;
         posy=60;
         weight=50;
