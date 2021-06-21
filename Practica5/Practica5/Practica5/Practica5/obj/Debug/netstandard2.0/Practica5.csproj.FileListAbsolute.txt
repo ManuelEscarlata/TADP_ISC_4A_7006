@@ -1,0 +1,12 @@
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\bin\Debug\netstandard2.0\Practica5.deps.json
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\bin\Debug\netstandard2.0\Practica5.dll
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\bin\Debug\netstandard2.0\Practica5.pdb
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.csprojAssemblyReference.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.AssemblyInfoInputs.cache
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.AssemblyInfo.cs
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.dll
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.pdb
