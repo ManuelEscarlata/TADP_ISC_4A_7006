@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace Practica5
 {
 	[XamlCompilation(XamlCompilationOptions.Compile)]
-	public partial class Formulario : ContentPage
+	public partial class FormLoginOk : ContentPage
 	{
-		public Formulario ()
+		public FormLoginOk ()
 		{
 			InitializeComponent ();
 		}

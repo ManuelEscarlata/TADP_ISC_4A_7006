@@ -14,7 +14,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Update="Formulario.xaml">
+    <EmbeddedResource Update="FormLoginError.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="FormLoginOk.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>

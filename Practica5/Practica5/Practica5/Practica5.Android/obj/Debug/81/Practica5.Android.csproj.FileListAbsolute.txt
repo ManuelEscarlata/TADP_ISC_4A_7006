@@ -101,6 +101,14 @@ C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\mexcode.jpeg
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\login.png
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\fondologin.jpg
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\fondoerror.jpg
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\fondocorrecto.jpg
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\correcto.png
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\error.png
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\res\drawable\splash_screen.xml
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\obj\Debug\81\linksrc\Practica5.dll.mdb
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\bin\Debug\netstandard2.0\Practica5.dll
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5.Android\bin\Debug\Practica5.dll.mdb

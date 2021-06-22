@@ -10,3 +10,5 @@ C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.dll
 C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\Practica5.pdb
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\FormLoginError.xaml.g.cs
+C:\Users\ommp_\Downloads\TADP_ISC_4A_7006\Practica5\Practica5\Practica5\Practica5\obj\Debug\netstandard2.0\FormLoginOk.xaml.g.cs

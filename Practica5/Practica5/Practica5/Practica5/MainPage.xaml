@@ -4,8 +4,48 @@
              xmlns:local="clr-namespace:Practica5"
              x:Class="Practica5.MainPage">
 
-    <StackLayout>
-       
-    </StackLayout>
+    <Grid>
+        <Image Source="@drawable/fondologin.jpg" Aspect="AspectFill"></Image>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                    <RowDefinition Height="*"></RowDefinition>
+                    <RowDefinition Height="Auto"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Image Grid.Row="0" 
+                       Source="@drawable/login.png" 
+                       WidthRequest="100" 
+                       HeightRequest="100" 
+                       Margin="0,50,0,30"></Image>
+
+                <StackLayout Grid.Row="1" Padding="30,20">
+                    <Entry Placeholder="Usuario" 
+                           PlaceholderColor="White"
+                           IsSpellCheckEnabled="True"
+                           TextColor="White"
+                           IsTextPredictionEnabled="True"
+                           x:Name="Usuario"></Entry>
+                    <Entry Placeholder="Contraseña" 
+                           PlaceholderColor="White" 
+                           IsPassword="True" 
+                           TextColor="White"
+                           x:Name="Contrasena"></Entry>
+                    <Button Text="Iniciar" 
+                            BackgroundColor="DarkViolet" 
+                            BorderRadius="20" 
+                            TextColor="White" 
+                            Clicked="Button_Clicked"
+                            ></Button>
+                </StackLayout>
+
+                <StackLayout Grid.Row="2" 
+                             HorizontalOptions="Center" 
+                             Padding="10,0,0,10">
+                <Label Text="2021 MexCode S.A. de C.V. " TextColor="White"></Label>
+                </StackLayout>
+                
+            </Grid>
+    </Grid>
 
 </ContentPage>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Practica5.FormLoginError">
+    <Grid>
+        <Image Source="@drawable/fondoerror.jpg" Aspect="AspectFill"></Image>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="0" 
+                       Source="@drawable/Error.png" 
+                       WidthRequest="150" 
+                       HeightRequest="150" 
+                       Margin="0,50,0,30"></Image>
+
+            <StackLayout Grid.Row="1" Margin="10,0,10,0">
+                <Label Text="Validacion incorrecta regrese e ingrese los datos correctos"
+                VerticalOptions="CenterAndExpand" 
+                TextColor="White"
+                HorizontalOptions="CenterAndExpand" />
+            </StackLayout>
+
+        </Grid>
+    </Grid>
+</ContentPage>
