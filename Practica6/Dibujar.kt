@@ -54,12 +54,12 @@ class Dibujar(p:MainActivity): View(p)
         super.onDraw(c)
         val p= Paint()
         c.drawColor(Color.BLACK)
-        p.color= Color.WHITE
+        p.color= Color.YELLOW
         c.drawCircle(xd, yd, 35f,p)
         p.color= Color.BLUE
         c.drawRoundRect(RectF(100F, 60f, 300F, 20f), j1x, j1y, p)
 
-        p.color= Color.RED
+        p.color= Color.GREEN
         c.drawRoundRect(RectF(100f, 2060f, 300f, 2100f), j2x, j2y, p)
     }
     private fun jugSystem(x: Float, y: Float){
